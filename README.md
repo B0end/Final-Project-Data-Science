@@ -160,7 +160,7 @@ View the application at [Deployed Project Link](Link)
 
 Aplicación de técnicas de procesamiento de lenguaje
 natural (NLP) para analizar el sentimiento de las reseñas y clasificarlas
-en positivas, negativas o neutrales.
+en positivas, negativas o neutrales. Utilizando la libreria SentimentIntensityAnalyzer del conjunto nltk.sentiment.
 
 -screen de uso -
 
