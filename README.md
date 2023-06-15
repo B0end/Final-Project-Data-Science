@@ -1,4 +1,4 @@
-![header]((https://github.com/BenJokek/Final-Project-Data-Science/blob/a3d18d2348afda28e1551d12e4fbd9a902bddb91/src/dataBRIDGE_logo_black.png))
+![header](src/dataBRIDGE_logo_black.png)
 
 #  Google maps + Yelp! 🗺️ 🚀
 
