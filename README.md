@@ -111,7 +111,7 @@ Trabajamos siguiendo el **CRONOGRAMA** a continuación:
 ## Modelo ER
 
 <p align='center'>
-<img alt="stack" src="src/ModeloER2.png" width="75%">
+<img alt="stack" src="src/Modelo_ER2.png" width="75%">
 </p>
 
 ## Diccionario Datos
