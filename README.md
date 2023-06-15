@@ -1,10 +1,25 @@
-![header](https://github.com/BenJokek/Final-Project-Data-Science/src/dataBRIDGE_logo_black.png)
+![header]([https://github.com/BenJokek/Final-Project-Data-Science/src/dataBRIDGE_logo_black.png](https://github.com/BenJokek/Final-Project-Data-Science/blob/a3d18d2348afda28e1551d12e4fbd9a902bddb91/src/dataBRIDGE_logo_black.png))
 
 #  Google maps + Yelp! 🗺️ 🚀
 
 ## Contexto 🌍
 
-La opinión de los usuarios se ha convertido en un dato invaluable en la planificaciónde estrategias comerciales. Plataformas de reseñas como Yelp yGoogle Maps proporcionan una gran cantidad de información sobre lapercepción de los usuarios respecto a diversos negocios, incluyendo restaurantes,hoteles, esteticas y otros servicios relacionados. Esta retroalimentaciónes esencial para las empresas, ya que les permite evaluar su desempeño,identificar áreas de mejora y comprender cómo son percibidas por losusuarios. Como parte de una consultora de data, se nos ha contratado pararealizar un análisis detallado de la opinión de los usuarios en Yelp y GoogleMaps sobre negocios relacionados con el cuidado personal y la estetica en elmercado estadounidense.El rubro de belleza abarca una amplia gama de servicios y establecimientosrelacionados con el cuidado personal y la estética. Algunos ejemplos de negociosdentro de este rubro son los salones de belleza, spas, peluquerías, barberías,salones de uñas, centros de estética, salones de masajes y tiendas deproductos de belleza.
+La opinión de los usuarios se ha convertido en un dato invaluable en la planificación
+de estrategias comerciales. Plataformas de reseñas como Yelp y
+Google Maps proporcionan una gran cantidad de información sobre la
+percepción de los usuarios respecto a diversos negocios, incluyendo restaurantes,
+hoteles, esteticas y otros servicios relacionados. Esta retroalimentación
+es esencial para las empresas, ya que les permite evaluar su desempeño,
+identificar áreas de mejora y comprender cómo son percibidas por los
+usuarios. Como parte de una consultora de data, se nos ha contratado para
+realizar un análisis detallado de la opinión de los usuarios en Yelp y Google
+Maps sobre negocios relacionados con el cuidado personal y la estetica en el
+mercado estadounidense.
+El rubro de belleza abarca una amplia gama de servicios y establecimientos
+relacionados con el cuidado personal y la estética. Algunos ejemplos de negocios
+dentro de este rubro son los salones de belleza, spas, peluquerías, barberías,
+salones de uñas, centros de estética, salones de masajes y tiendas de
+productos de belleza.
 
 ## Table of Contents
 
@@ -26,9 +41,28 @@ La opinión de los usuarios se ha convertido en un dato invaluable en la planifi
 
 ## Descripcion + Objetivo
 
-Nuestro proyecto consiste en recopilar, depurar y analizar datos de reseñas deYelp y Google Maps, utilizando técnicas de análisis de sentimientos y machinelearning para determinar las ubicaciones más adecuadas para establecernuevos locales comerciales y descubrir oportunidades de inversión investigandoaspectos como el crecimiento del mercado, la demanda de servicios debelleza, la competencia existente y las tendencias emergentes.Con base en el análisis realizado, generaremos recomendaciones claras y fundamentadaspara el inversor. Estas recomendaciones mostrarán las oportunidadesde inversión más atractivas en el rubro de belleza, destacando losaspectos clave que respaldan la viabilidad y el potencial de crecimiento decada oportunidad.Aunque nos enfocaremos principalmente en el sector de estetica, la metodologíapuede aplicarse a otros tipos de comercios.
+Nuestro proyecto consiste en recopilar, depurar y analizar datos de reseñas de
+Yelp y Google Maps, utilizando técnicas de análisis de sentimientos y machine
+learning para determinar las ubicaciones más adecuadas para establecer
+nuevos locales comerciales y descubrir oportunidades de inversión investigando
+aspectos como el crecimiento del mercado, la demanda de servicios de
+belleza, la competencia existente y las tendencias emergentes.
+Con base en el análisis realizado, generaremos recomendaciones claras y fundamentadas
+para el inversor. Estas recomendaciones mostrarán las oportunidades
+de inversión más atractivas en el rubro de belleza, destacando los
+aspectos clave que respaldan la viabilidad y el potencial de crecimiento de
+cada oportunidad.
+Aunque nos enfocaremos principalmente en el sector de estetica, la metodología
+puede aplicarse a otros tipos de comercios.
 
-**El objetivo principal del proyecto** es brindar a nuestro cliente: inversor de laindustria estetica latinoamericana una vision general del mercado estadounidensecon el fin de que tome las decisiones mas informadas e inteligentespara incorporarse como competidor en dicho mercado. Gracias a un análisisexhaustivo de la opinión de los usuarios en Yelp y Google Maps podremosidentificar tendencias, predecir el crecimiento o decaimiento de rubroscomerciales y tomar decisiones estratégicas informadas para mejorardecisiones de gestion e inversion de negocios.
+**El objetivo principal del proyecto** es brindar a nuestro cliente: inversor de la
+industria estetica latinoamericana una vision general del mercado estadounidense
+con el fin de que tome las decisiones mas informadas e inteligentes
+para incorporarse como competidor en dicho mercado. Gracias a un análisis
+exhaustivo de la opinión de los usuarios en Yelp y Google Maps podremos
+identificar tendencias, predecir el crecimiento o decaimiento de rubros
+comerciales y tomar decisiones estratégicas informadas para mejorar
+decisiones de gestion e inversion de negocios.
 
 ## Demo
 
@@ -71,7 +105,7 @@ View the application at [Deployed Project Link](Link)
 Trabajamos siguiendo el **CRONOGRAMA** a continuación:
 
 <p align='center'>
-<img alt="stack" src="src/GANTT.png" width="75%">
+<img alt="stack" src="[src/GANTT.png](https://github.com/BenJokek/Final-Project-Data-Science/blob/a3d18d2348afda28e1551d12e4fbd9a902bddb91/src/GANTT.png)" width="75%">
 </p>
 
 ## Modelo ER
@@ -84,11 +118,36 @@ Trabajamos siguiendo el **CRONOGRAMA** a continuación:
 
 Yelp!
 
-Estos conjuntos de datos proporcionan información sobre negocios, reseñas,usuarios, horarios de check-in y consejos en Yelp."business.pkl": contiene información sobre negocios. Las columnas incluyen elID del negocio, nombre, dirección, ciudad, estado, código postal, latitud, longitud,rating en estrellas, número de reseñas, estado de apertura, atributos del negocio,categorías y horarios de atención."review.json": contiene reseñas completas. Las columnas incluyen el ID de lareseña, ID único del usuario que la escribió, ID del negocio al que se refiere lareseña, puntaje en estrellas, fecha, texto de la reseña y votos útiles, graciosos ycool."user.parquet": contiene información sobre usuarios. Las columnas incluyen el IDdel usuario, nombre, número de reseñas escritas, fecha de creación de la cuenta,lista de amigos, votos útiles, graciosos y cool recibidos, número de fans, añoscomo miembro elite, promedio de valor de las reseñas y totales de cumplidos recibidosen diferentes categorías."checkin.json": registra los horarios de check-in en los negocios. Las columnasincluyen el ID del negocio y una lista de fechas y horas de check-in."tip.json": contiene consejos escritos por los usuarios. Las columnas incluyen eltexto del consejo, fecha de escritura, cantidad de cumplidos recibidos, ID del negocioal que se refiere e ID del usuario que lo escribió.
+Estos conjuntos de datos proporcionan información sobre negocios, reseñas,
+usuarios, horarios de check-in y consejos en Yelp.
+"business.pkl": contiene información sobre negocios. Las columnas incluyen el
+ID del negocio, nombre, dirección, ciudad, estado, código postal, latitud, longitud,
+rating en estrellas, número de reseñas, estado de apertura, atributos del negocio,
+categorías y horarios de atención.
+"review.json": contiene reseñas completas. Las columnas incluyen el ID de la
+reseña, ID único del usuario que la escribió, ID del negocio al que se refiere la
+reseña, puntaje en estrellas, fecha, texto de la reseña y votos útiles, graciosos y
+cool.
+"user.parquet": contiene información sobre usuarios. Las columnas incluyen el ID
+del usuario, nombre, número de reseñas escritas, fecha de creación de la cuenta,
+lista de amigos, votos útiles, graciosos y cool recibidos, número de fans, años
+como miembro elite, promedio de valor de las reseñas y totales de cumplidos recibidos
+en diferentes categorías.
+"checkin.json": registra los horarios de check-in en los negocios. Las columnas
+incluyen el ID del negocio y una lista de fechas y horas de check-in.
+"tip.json": contiene consejos escritos por los usuarios. Las columnas incluyen el
+texto del consejo, fecha de escritura, cantidad de cumplidos recibidos, ID del negocio
+al que se refiere e ID del usuario que lo escribió.
 
 Google Maps
 
-Estos conjuntos de datos proporcionan información detalladasobre comercios y reseñas relacionadas con Google Maps."metadata_sitios": contiene información sobre comercios y sus atributos,como el nombre, dirección, ubicación geográfica, categoría,puntaje promedio, precios y horarios de atención."review-estados": contiene reseñas de usuarios organizadas por estadosde EE. UU.
+Estos conjuntos de datos proporcionan información detallada
+sobre comercios y reseñas relacionadas con Google Maps.
+"metadata_sitios": contiene información sobre comercios y sus atributos,
+como el nombre, dirección, ubicación geográfica, categoría,
+puntaje promedio, precios y horarios de atención.
+"review-estados": contiene reseñas de usuarios organizadas por estados
+de EE. UU.
 
 ## Visualizaciones 
 
@@ -102,13 +161,17 @@ View the application at [Deployed Project Link](Link)
 
 * Análisis de sentimientos: 
 
-Aplicación de técnicas de procesamiento de lenguajenatural (NLP) para analizar el sentimiento de las reseñas y clasificarlasen positivas, negativas o neutrales.
+Aplicación de técnicas de procesamiento de lenguaje
+natural (NLP) para analizar el sentimiento de las reseñas y clasificarlas
+en positivas, negativas o neutrales.
 
 -screen de uso -
 
 * Recomendación inversión: 
 
-Predicción de tendencias: Desarrollo de modelos de machine learning,supervisados o no supervisados, para predecir los rubros de los negocios queexperimentarán crecimiento o declive en base a las reseñas.
+Predicción de tendencias: Desarrollo de modelos de machine learning,
+supervisados o no supervisados, para predecir los rubros de los negocios que
+experimentarán crecimiento o declive en base a las reseñas.
 
 -screen de uso -
 
