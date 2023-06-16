@@ -231,7 +231,7 @@ Se puede observar que dicho gráfico indica que el número óptimo de clusters a
 
 <h3 align="center">Gráfico 3D del clustering</h3>
 
-En este gráfico se puede apreciar inicialmente la forma tridimensional de Estados Unidos, donde los colroes representan los clsuters conjunto a sus contenidos (puntos).
+En este gráfico se puede apreciar inicialmente la forma tridimensional de Estados Unidos, donde los colores representan los clusters conjunto a sus contenidos (puntos).
 
 <p align='center'>
 <img alt="stack" src="src/Clustering - Graph.png" width="60%">
