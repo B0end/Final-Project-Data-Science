@@ -169,6 +169,9 @@ en positivas, negativas o neutrales. Haciendo uso de la libreria SentimentIntens
 <img alt="stack" src="src/GmapTable_Análisis de Sentimientos -  Example.png" width="60%">
 </p>
 
+Esta tabla de hechos representa las características y resultados de cada una de las reviews, filtradas del rubro belelza y estética, conjunto a una nueva columna llamada Sentimiento donde se expresa si la review fue Positiva, Neutral o Negativa
+
+Cabe recalcar que en los siguientes gráfico no se decidió tener en cuenta los "Neutrales" ya que represntaban menos del 1%.
 <h3 align="center">Top 5 Estados con mayor cantidad de reviews positivas:</h3>
 
 <p align='center'>
@@ -188,6 +191,8 @@ en positivas, negativas o neutrales. Haciendo uso de la libreria SentimentIntens
 <img alt="stack" src="src/YelpTable_Análisis de Sentimientos -  Example.png" width="60%">
 </p>
 
+La descripción de esta tabla es idéntica que la anterior, Google Maps, solo varía de donde se extrajeron los datos; en este caso el dataset de Yelp.
+
 <h3 align="center">Top 5 Estados con mayor cantidad de reviews positivas:</h3>
 
 <p align='center'>
@@ -202,15 +207,19 @@ en positivas, negativas o neutrales. Haciendo uso de la libreria SentimentIntens
 
 <h1 align="center">Clustering</h1>
 
-<h4 align="left">A través de un modelo de clustering en tres dimensiones (latitud, longitud y promedio de rating) se investigan y se agrupan los negocios. Esto orientado a sus ubicaciones geográficas específicas (Estado y Condado/County) junto a sus tendencias de rating. Complementando así con la vigente competencia en cada locación; ordenado desde el elemento con mas rating hacia el menor.
-En el mismo se utilizó la librería sklearn donde se extrajo las sublibrerias StandardScaler para estandarizar los datos, KMeans para el proceso de clsutering y por ultimo una segunda libreria llamada geodesic del conjunto de geopy para identificar los condados y Estados de las ubicaciones investigadas.:</h4>
-
+A través de un modelo de clustering en tres dimensiones (latitud, longitud y promedio de rating) se investigan y se agrupan los negocios. Esto orientado a sus ubicaciones geográficas específicas (Estado y Condado/County) junto a sus tendencias de rating. Complementando así con la vigente competencia en cada locación; ordenado desde el elemento con mas rating hacia el menor.
+En el mismo se utilizó la librería sklearn donde se extrajo las sublibrerias StandardScaler para estandarizar los datos, KMeans para el proceso de clsutering y por ultimo una segunda libreria llamada geodesic del conjunto de geopy para identificar los condados y Estados de las ubicaciones investigadas.
 
 <h3 align="center">Tabla Resultante:</h3>
+
+Gracias al proceso que implica el clustering al extraer los puntos centrales de cada cluster tenemos una ubicación geográfica exacta de dicho conjunto. Es así como se procede a traducir estos datos en las columnas "Estado" y "Condado"; sumando a su vez el promedio de los puntajes de las reviews de dicha zona.
+Por otro lado podemos ver a la vez una comparación entre la Cantidad de Negocios presente vs la cantidad de Negocios Competidores, refiriendose a un rubro en común; la última columna expresa la relación de esta comeptencia, es decir, cuanto mas alto es el procentaje, mayor comeptencia se encuentra presente en esta ubicación. 
 
 <p align='center'>
 <img alt="stack" src="src/Clusters_Results_Table.png" width="60%">
 </p>
+
+
 
 <h3 align="center">Gráfico de Elbow:</h3>
 
@@ -218,7 +227,11 @@ En el mismo se utilizó la librería sklearn donde se extrajo las sublibrerias S
 <img alt="stack" src="src/Elbow - Graph.png" width="60%">
 </p>
 
+Se puede observar que dicho gráfico indica que el número óptimo de clusters a aplicar son de aproximadamente 5. Pero el contexto de negocio de este proyecto nos exige una clasficación de las ubicaciones con mayores particiones. Por eso se optó por utilziar la cantidad de 50 clusters; asi podemos tener 50 localizaciones distintas
+
 <h3 align="center">Gráfico 3D del clustering:</h3>
+
+En este gráfico se puede apreciar inicialmente la forma tridimensional de Estados Unidos, donde los colroes representan los clsuters conjunto a sus contenidos (puntos).
 
 <p align='center'>
 <img alt="stack" src="src/Clustering - Graph.png" width="60%">
