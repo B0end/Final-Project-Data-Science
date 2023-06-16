@@ -200,10 +200,11 @@ en positivas, negativas o neutrales. Haciendo uso de la libreria SentimentIntens
 <img alt="stack" src="src/YelpNEG.png" width="60%">
 </p>
 
-<h1 align="center">Clustering:</h1>
+<h1 align="center">Clustering</h1>
 
-A través de un modelo de clustering en tres dimensiones (latitud, longitud y promedio de rating) se investigan y se agrupan los negocios. Esto orientado a sus ubicaciones geográficas específicas (Estado y Condado/County) junto a sus tendencias de rating. Complementando así con la vigente competencia en cada locación; ordenado desde el elemento con mas rating hacia el menor.
-En el mismo se utilizó la librería sklearn donde se extrajo las sublibrerias StandardScaler para estandarizar los datos, KMeans para el proceso de clsutering y por ultimo una segunda libreria llamada geodesic del conjunto de geopy para identificar los condados y Estados de las ubicaciones investigadas.
+<h4 align="left">A través de un modelo de clustering en tres dimensiones (latitud, longitud y promedio de rating) se investigan y se agrupan los negocios. Esto orientado a sus ubicaciones geográficas específicas (Estado y Condado/County) junto a sus tendencias de rating. Complementando así con la vigente competencia en cada locación; ordenado desde el elemento con mas rating hacia el menor.
+En el mismo se utilizó la librería sklearn donde se extrajo las sublibrerias StandardScaler para estandarizar los datos, KMeans para el proceso de clsutering y por ultimo una segunda libreria llamada geodesic del conjunto de geopy para identificar los condados y Estados de las ubicaciones investigadas.:</h4>
+
 
 <h3 align="center">Tabla Resultante:</h3>
 
