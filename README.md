@@ -156,7 +156,7 @@ View the application at [Deployed Project Link](Link)
 
 # Machine Learning
 
-* Análisis de sentimientos: 
+## Análisis de sentimientos: 
 
 Aplicación de técnicas de procesamiento de lenguaje
 natural (NLP) para analizar el sentimiento de las reseñas y clasificarlas
@@ -179,6 +179,25 @@ en positivas, negativas o neutrales. Haciendo uso de la libreria SentimentIntens
 
 <p align='center'>
 <img alt="stack" src="src/GmapNEG.png" width="60%">
+</p>
+
+## Yelp
+
+### Tabla resultante:
+<p align='center'>
+<img alt="stack" src="src/YelpTable_Análisis de Sentimientos -  Example.png" width="60%">
+</p>
+
+<h3 align="center">Top 5 Estados con mayor cantidad de reviews positivas:</h3>
+
+<p align='center'>
+<img alt="stack" src="src/YelpPOS.png" width="60%">
+</p>
+
+<h3 align="center">Top 5 Estados con mayor cantidad de reviews negativas:</h3>
+
+<p align='center'>
+<img alt="stack" src="src/YelpNEG.png" width="60%">
 </p>
 
 * Clustering de las zonas geográficas
