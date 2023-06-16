@@ -162,7 +162,11 @@ Aplicación de técnicas de procesamiento de lenguaje
 natural (NLP) para analizar el sentimiento de las reseñas y clasificarlas
 en positivas, negativas o neutrales. Haciendo uso de la libreria SentimentIntensityAnalyzer del conjunto nltk.sentiment. La cual genera una nueva columna donde se clasifica cada reseña, reempalzando/traduciendo así la reseña misma a su categoría representante.
 
--screen de uso -
+# Google Maps
+
+<p align='center'>
+<img alt="stack" src="src/GmapTable_Análisis de Sentimientos -  Example.png" width="75%">
+</p>
 
 * Clustering de las zonas geográficas
 
