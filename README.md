@@ -173,13 +173,13 @@ en positivas, negativas o neutrales. Haciendo uso de la libreria SentimentIntens
 Esta tabla de hechos representa las características y resultados de cada una de las reviews, filtradas del rubro belelza y estética, conjunto a una nueva columna llamada Sentimiento donde se expresa si la review fue Positiva, Neutral o Negativa
 
 Cabe recalcar que en los siguientes gráfico no se decidió tener en cuenta los "Neutrales" ya que represntaban menos del 1%.
-<h3 align="center">Top 5 Estados con mayor cantidad de reviews positivas:</h3>
+<h3 align="center">Top 5 Estados con mayor cantidad de reviews positivas</h3>
 
 <p align='center'>
 <img alt="stack" src="src/GmapPOS.png" width="60%">
 </p>
 
-<h3 align="center">Top 5 Estados con mayor cantidad de reviews negativas:</h3>
+<h3 align="center">Top 5 Estados con mayor cantidad de reviews negativas</h3>
 
 <p align='center'>
 <img alt="stack" src="src/GmapNEG.png" width="60%">
@@ -195,13 +195,13 @@ Cabe recalcar que en los siguientes gráfico no se decidió tener en cuenta los 
 
 La descripción de esta tabla es idéntica que la anterior, Google Maps, solo varía de donde se extrajeron los datos; en este caso el dataset de Yelp.
 
-<h3 align="center">Top 5 Estados con mayor cantidad de reviews positivas:</h3>
+<h3 align="center">Top 5 Estados con mayor cantidad de reviews positivas</h3>
 
 <p align='center'>
 <img alt="stack" src="src/YelpPOS.png" width="60%">
 </p>
 
-<h3 align="center">Top 5 Estados con mayor cantidad de reviews negativas:</h3>
+<h3 align="center">Top 5 Estados con mayor cantidad de reviews negativas</h3>
 
 <p align='center'>
 <img alt="stack" src="src/YelpNEG.png" width="60%">
@@ -221,9 +221,7 @@ Por otro lado podemos ver a la vez una comparación entre la Cantidad de Negocio
 <img alt="stack" src="src/Clusters_Results_Table.png" width="60%">
 </p>
 
-
-
-<h3 align="center">Gráfico de Elbow:</h3>
+<h3 align="center">Gráfico de Elbow</h3>
 
 <p align='center'>
 <img alt="stack" src="src/Elbow - Graph.png" width="60%">
@@ -231,13 +229,15 @@ Por otro lado podemos ver a la vez una comparación entre la Cantidad de Negocio
 
 Se puede observar que dicho gráfico indica que el número óptimo de clusters a aplicar son de aproximadamente 5. Pero el contexto de negocio de este proyecto nos exige una clasficación de las ubicaciones con mayores particiones. Por eso se optó por utilziar la cantidad de 50 clusters; asi podemos tener 50 localizaciones distintas
 
-<h3 align="center">Gráfico 3D del clustering:</h3>
+<h3 align="center">Gráfico 3D del clustering</h3>
 
 En este gráfico se puede apreciar inicialmente la forma tridimensional de Estados Unidos, donde los colroes representan los clsuters conjunto a sus contenidos (puntos).
 
 <p align='center'>
 <img alt="stack" src="src/Clustering - Graph.png" width="60%">
 </p>
+
+####
 
 # App usuario
 
