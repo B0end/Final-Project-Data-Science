@@ -165,6 +165,7 @@ en positivas, negativas o neutrales. Haciendo uso de la libreria SentimentIntens
 ## Google Maps
 
 ### Tabla resultante:
+
 <p align='center'>
 <img alt="stack" src="src/GmapTable_Análisis de Sentimientos -  Example.png" width="60%">
 </p>
@@ -187,6 +188,7 @@ Cabe recalcar que en los siguientes gráfico no se decidió tener en cuenta los 
 ## Yelp
 
 ### Tabla resultante:
+
 <p align='center'>
 <img alt="stack" src="src/YelpTable_Análisis de Sentimientos -  Example.png" width="60%">
 </p>
