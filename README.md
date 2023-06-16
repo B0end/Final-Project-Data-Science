@@ -156,7 +156,7 @@ View the application at [Deployed Project Link](Link)
 
 # Machine Learning
 
-<h1 align="center">Análisis de sentimientos:</h1>
+<h1 align="center">Análisis de sentimientos</h1>
 
 Aplicación de técnicas de procesamiento de lenguaje
 natural (NLP) para analizar el sentimiento de las reseñas y clasificarlas
