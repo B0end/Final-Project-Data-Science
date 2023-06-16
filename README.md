@@ -216,7 +216,7 @@ En el mismo se utilizó la librería sklearn donde se extrajo las sublibrerias S
 
 ### Tabla resultante:
 
-Gracias al proceso que implica el clustering al extraer los puntos centrales de cada cluster tenemos una ubicación geográfica exacta de dicho conjunto. Es así como se procede a traducir estos datos en las columnas "Estado" y "Condado"; sumando a su vez el promedio de los puntajes de las reviews de dicha zona.
+Gracias al proceso que implica el clustering al extraer los puntos centrales de cada cluster tenemos una ubicación geográfica exacta de dicho conjunto. Es así como se procede a traducir estos datos en las columnas "Estado" y "Condado"; agregando a su vez el promedio de los puntajes de las reviews de dicha zona.
 Por otro lado podemos ver a la vez una comparación entre la Cantidad de Negocios presente vs la cantidad de Negocios Competidores, refiriendose a un rubro en común; la última columna expresa la relación de esta competencia, es decir, cuanto mas alto es el porcentaje, mayor comepetencia se encuentra presente en esta ubicación. 
 Gracias a este conjunto de datos como parámetros de decision se puede dar a conocer a cuales Estados y Condados conviene invertir dependiendo del promedio de Rating, como a su vez teniendo en cuenta el porcentaje de competición presente en cada zona. Ya que si el cliente desea un entorno de negocio con poca comeptencia entonces conviene buscar una zona con pcoa comeptencia en comapración a los demas. En caso contrario si el cliente desea sumarse al grupo de competentes en las zonas presentes también es factible ya que simboliza que el negocio da frutos en dicho lugar.
 .
