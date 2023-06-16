@@ -156,7 +156,7 @@ View the application at [Deployed Project Link](Link)
 
 # Machine Learning
 
-## Análisis de sentimientos: 
+<h1 align="center">Análisis de sentimientos:</h1>
 
 Aplicación de técnicas de procesamiento de lenguaje
 natural (NLP) para analizar el sentimiento de las reseñas y clasificarlas
@@ -200,13 +200,28 @@ en positivas, negativas o neutrales. Haciendo uso de la libreria SentimentIntens
 <img alt="stack" src="src/YelpNEG.png" width="60%">
 </p>
 
-* Clustering de las zonas geográficas
+<h1 align="center">Clustering:</h1>
 
 A través de un modelo de clustering en tres dimensiones (latitud, longitud y promedio de rating) se investigan y se agrupan los negocios. Esto orientado a sus ubicaciones geográficas específicas (Estado y Condado/County) junto a sus tendencias de rating. Complementando así con la vigente competencia en cada locación; ordenado desde el elemento con mas rating hacia el menor.
 En el mismo se utilizó la librería sklearn donde se extrajo las sublibrerias StandardScaler para estandarizar los datos, KMeans para el proceso de clsutering y por ultimo una segunda libreria llamada geodesic del conjunto de geopy para identificar los condados y Estados de las ubicaciones investigadas.
 
+<h3 align="center">Tabla Resultante:</h3>
 
--screen de uso -
+<p align='center'>
+<img alt="stack" src="src/Clusters_Results_Table.png" width="60%">
+</p>
+
+<h3 align="center">Gráfico de Elbow:</h3>
+
+<p align='center'>
+<img alt="stack" src="src/Elbow - Graph.png" width="60%">
+</p>
+
+<h3 align="center">Gráfico 3D del clustering:</h3>
+
+<p align='center'>
+<img alt="stack" src="src/Clustering - Graph.png" width="60%">
+</p>
 
 ## App usuario
 
