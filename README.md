@@ -160,15 +160,13 @@ View the application at [Deployed Project Link](Link)
 
 Aplicación de técnicas de procesamiento de lenguaje
 natural (NLP) para analizar el sentimiento de las reseñas y clasificarlas
-en positivas, negativas o neutrales. Utilizando la libreria SentimentIntensityAnalyzer del conjunto nltk.sentiment.
+en positivas, negativas o neutrales. Haciendo uso de la libreria SentimentIntensityAnalyzer del conjunto nltk.sentiment. La cual genera una nueva columna donde se clasifica cada reseña, reempalzando/traduciendo así la reseña misma a su categoría representante.
 
 -screen de uso -
 
-* Recomendación inversión: 
+* Clustering de las zonas geográficas
 
-Predicción de tendencias: Desarrollo de modelos de machine learning,
-supervisados o no supervisados, para predecir los rubros de los negocios que
-experimentarán crecimiento o declive en base a las reseñas.
+A través de un modelo de clustering en tres dimensiones (latitud, longitud y promedio de rating) se investigan y se agrupan los negocios. Esto orientado a sus ubicaciones geográficas específicas (Estado y Condado/County) junto a sus tendencias de rating. Complementando así con la vigente competencia en cada locación; ordenado desde el elemento con mas rating hacia el menor.
 
 -screen de uso -
 
