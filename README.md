@@ -154,8 +154,8 @@ POWER BI
 
 View the application at [Deployed Project Link](Link)
 
-# Machine Learning
-
+<h1 align="center">Machine Learning</h1>
+<h1 align="center"></h1>
 <h1 align="center">Análisis de sentimientos</h1>
 
 Aplicación de técnicas de procesamiento de lenguaje
@@ -212,7 +212,7 @@ La descripción de esta tabla es idéntica que la anterior, Google Maps, solo va
 A través de un modelo de clustering en tres dimensiones (latitud, longitud y promedio de rating) se investigan y se agrupan los negocios. Esto orientado a sus ubicaciones geográficas específicas (Estado y Condado/County) junto a sus tendencias de rating. Complementando así con la vigente competencia en cada locación; ordenado desde el elemento con mas rating hacia el menor.
 En el mismo se utilizó la librería sklearn donde se extrajo las sublibrerias StandardScaler para estandarizar los datos, KMeans para el proceso de clsutering y por ultimo una segunda libreria llamada geodesic del conjunto de geopy para identificar los condados y Estados de las ubicaciones investigadas.
 
-<h3 align="center">Tabla Resultante:</h3>
+### Tabla resultante:
 
 Gracias al proceso que implica el clustering al extraer los puntos centrales de cada cluster tenemos una ubicación geográfica exacta de dicho conjunto. Es así como se procede a traducir estos datos en las columnas "Estado" y "Condado"; sumando a su vez el promedio de los puntajes de las reviews de dicha zona.
 Por otro lado podemos ver a la vez una comparación entre la Cantidad de Negocios presente vs la cantidad de Negocios Competidores, refiriendose a un rubro en común; la última columna expresa la relación de esta comeptencia, es decir, cuanto mas alto es el procentaje, mayor comeptencia se encuentra presente en esta ubicación. 
@@ -239,7 +239,7 @@ En este gráfico se puede apreciar inicialmente la forma tridimensional de Estad
 <img alt="stack" src="src/Clustering - Graph.png" width="60%">
 </p>
 
-## App usuario
+# App usuario
 
 STREAMLIT APP
 
