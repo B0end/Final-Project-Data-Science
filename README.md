@@ -169,11 +169,14 @@ en positivas, negativas o neutrales. Haciendo uso de la libreria SentimentIntens
 <img alt="stack" src="src/GmapTable_Análisis de Sentimientos -  Example.png" width="60%">
 </p>
 
-### Top 5 Estados con mayor cantidad de reviews positivas:
+<h3 align="center">Top 5 Estados con mayor cantidad de reviews positivas:</h3>
+
 <p align='center'>
 <img alt="stack" src="src/GmapPOS.png" width="60%">
 </p>
-### Top 5 Estados con mayor cantidad de reviews negativas:
+
+<h3 align="center">Top 5 Estados con mayor cantidad de reviews negativas:</h3>
+
 <p align='center'>
 <img alt="stack" src="src/GmapNEG.png" width="60%">
 </p>
