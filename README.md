@@ -9,18 +9,17 @@ user perception regarding various businesses, including restaurants, hotels, aes
 
 ## Content
 
-* [Description + Objective](#Description-+-Objective)
-* [Demo](#demo)
-* [KPIs](#kpis)
-* [Tech Stack](#Tech-Stack)
-* [Methodology + Schedule](#metodologia-+cronograma)
-* [ER Model](#modelo-er)
-* [Data Dictionary](#diccionario-datos)
-* [Visualizations](#visualizaciones)
-* [Machine Learning](#machine-learning)
-* [User App](#app-usuario)
+* [Description + Objective](#description--objective-)
+* [Demo](#demo-)
+* [KPIs](#kpis-)
+* [Tech Stack](#tech-stack-)
+* [Methodology + Schedule](#methodology--schedule-)
+* [ER Model](#er-model)
+* [Visualizations](#visualizations)
+* [Machine Learning](#machine-learning-)
+* [User App](#user-app)
 * [Conclusions](#conslusiones)
-* [Team](#equipo)
+* [Team](#team-)
 
 ## Description + Objective 🏆
 
@@ -195,7 +194,7 @@ Finally, this visualization shows the distribution of the data geographically, e
 
 The application can be accessed through: [https://databrick-app-ro1106uif3t.streamlit.app/Proyecto](https://databrick-app-ro1106uif3t.streamlit.app/Proyecto)
 
-## Equipo 🫂
+## Team 🫂
 
 | Name   | LinkedIn ↘️ | GitHub                | Role |
 |------------|---|-----------------------|------------|
