@@ -253,10 +253,10 @@ Finalmente esta visualizacion demuestra la distribución de los datos geográfic
 STREAMLIT APP
 
 <p align='center'>
-<img alt="stack" src="src/intro.png" width="95%">
+<img alt="stack" src="src/app-mockup.png" width="95%">
 </p>
 
-View the application at [Deployed Project Link](Link)
+View the application at [Deployed Project Link](https://databrick-app-ro1106uif3t.streamlit.app/Proyecto)
 
 ## Equipo
 
