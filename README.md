@@ -21,7 +21,7 @@ dentro de este rubro son los salones de belleza, spas, peluquerías, barberías,
 salones de uñas, centros de estética, salones de masajes y tiendas de
 productos de belleza.
 
-## Table of Contents
+## Contenidos 
 
 * [Descripción + Objetivo](#descripcion-+-objetivo)
 * [Demo](#demo)
@@ -37,7 +37,7 @@ productos de belleza.
 * [Equipo](#equipo)
 * [Disclaimers](#disclaimer)
 
-## Descripción + Objetivo
+## Descripción + Objetivo 🏆
 
 Nuestro proyecto consiste en recopilar, depurar y analizar datos de reseñas de
 Yelp y Google Maps, utilizando técnicas de análisis de sentimientos y machine
@@ -62,20 +62,14 @@ identificar tendencias, predecir el crecimiento o decaimiento de rubros
 comerciales y tomar decisiones estratégicas informadas para mejorar
 la gestión e inversión en negocios.
 
-## Demo
+## Demo 🔌
 
-Provide a screenshot or GIF of your application. Using a GIF is generally more pleasing as people can see in real time how the application works.
-
-![Demo Screenshot / GIF](Link)
-
-## Descripción de la aplicación
-
-Descripcion de la aplicacion que generaremos en STREAMLIT
-
-View the application at [Deployed Project Link](Link)
+<p align='center'>
+<img alt="stack" src="src/demo.gif" width="95%">
+</p>
 
 
-## Stack Tecnológico
+## Stack Tecnológico 💻
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -93,7 +87,7 @@ View the application at [Deployed Project Link](Link)
 <img alt="stack" src="src/stackfinal.png" width="75%">
 </p>
 
-## Metodología + Cronograma
+## Metodología + Cronograma 📆
 
 <p align='center'>
 <img alt="stack" src="src/modelo-scrum_BLACK_solo.png" width="75%">
@@ -105,13 +99,13 @@ Trabajamos siguiendo el **CRONOGRAMA** a continuación:
 <img alt="stack" src="src/GANTT.png" width="75%">
 </p>
 
-## Modelo ER
+## Modelo ER 
 
 <p align='center'>
 <img alt="stack" src="src/Modelo_ER2.png" width="75%">
 </p>
 
-## Diccionario Datos
+## Diccionario Datos 
 
 Yelp!
 
@@ -154,7 +148,7 @@ POWER BI
 
 View the application at [Deployed Project Link](Link)
 
-<h1 align="center">Machine Learning</h1>
+<h1 align="center">Machine Learning 🤖</h1>
 <h1 align="center"></h1>
 <h1 align="center">Análisis de sentimientos</h1>
 
@@ -258,7 +252,7 @@ STREAMLIT APP
 
 View the application at [Deployed Project Link](https://databrick-app-ro1106uif3t.streamlit.app/Proyecto)
 
-## Equipo
+## Equipo 🫂
 
 | Nombre   | LinkedIn ↘️ | GitHub                | Función |
 |------------|---|-----------------------|------------|
