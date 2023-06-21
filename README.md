@@ -77,7 +77,7 @@ En nuestro dashboard podemos visualizar 5 KPIs de distinta indole.
 
 ***- La variabilidad*** KPIs se refiere a la volatilidad de los datos referidos al puntaje, cuanto menos variacion mejor, ya que los puntajes son mas predecibles, con un minimo de 0.5 de variacion. 
 
-**-*** El KPI **Confiabildiad*** es un calculo a partir del producto de la estandarizacion del primer y segundo KPI, mostrando un dato mas exacto de que tan confiable en terminos estadísticos es dicho filtro de mercado seleccionado. 
+**-** El KPI ***Confiabildiad*** es un calculo a partir del producto de la estandarizacion del primer y segundo KPI, mostrando un dato mas exacto de que tan confiable en terminos estadísticos es dicho filtro de mercado seleccionado. 
 
 **-** Por último el KPI ***Variacion del promedio del puntaje de reviews a través de dos divisiones diferentes de tiempo***, meses y trimestres. Con un minimo de 0,4% de aumento de las reviews con respecto al anterior periodo.
 
