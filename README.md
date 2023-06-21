@@ -268,3 +268,8 @@ Se puede acceder a la aplicación a través de [ESTE LINK](https://databrick-app
 Este material se proporciona únicamente con fines educativos. No se pretende ni se debe interpretar como asesoramiento legal, financiero o profesional de ningún tipo. La información contenida en este material es precisa y completa en la medida de nuestro conocimiento, pero no garantizamos su exactitud, integridad o actualidad.
 
 El uso de este material es bajo su propio riesgo. No nos hacemos responsables de ningún daño, pérdida o inconveniente causado por el uso de este material.
+
+<p align='center'>
+<img alt="stack" src="[src/app-mockup.png](https://i.gifer.com/3b4.gif)https://i.gifer.com/3b4.gif">
+</p>
+
