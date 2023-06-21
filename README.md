@@ -243,7 +243,7 @@ En este gráfico se puede apreciar inicialmente la forma tridimensional de Estad
 Finalmente esta visualizacion demuestra la distribución de los datos geográficamente, expresados en colores dependiendo del rating de cada reseña. Se puede apreciar que las reseñas por encima de 4 (verdes) son las mas abundantes.
 
 <p align='center'>
-<img alt="stack" src="src/Mapa_Imagen_Clustering.png" width="60%">
+<img alt="stack" src="img/Mapa_Imagen_Clustering.png" width="60%">
 </p>
 
 ####
