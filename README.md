@@ -73,7 +73,7 @@ la gestión e inversión en negocios.
 En nuestro dashboard podemos visualizar 5 KPIs de distinta indole. 
 ***- Puntaje promedio de Reviews*** indica dicha información segun los filtros, teniendo como objetivo un minimo de rating de 4.2 estrellas.
 
-***- Cantidad de Reviews*** hace referencia al promedio según los filtros. Este dato es importante ya que debe superar un minimo de 20 reviews ya que si el mismo es menor, peude significar que, mas alla de que el proemdio de reviews sea alto, la cantidad de datos de meustra de los cuales se llega a esta conclusion son pocos, por ende no confiables. 
+***- Cantidad de Reviews*** hace referencia al promedio según los filtros. Este dato es importante ya que debe superar un minimo de 20 reviews ya que si el mismo es menor, puede significar que, mas alla de que el proemdio de reviews sea alto, la cantidad de datos de muestra de los cuales se llega a esta conclusion son pocos, por ende no confiables. 
 
 ***- La variabilidad*** KPIs se refiere a la volatilidad de los datos referidos al puntaje, cuanto menos variacion mejor, ya que los puntajes son mas predecibles, con un minimo de 0.5 de variacion. 
 
@@ -81,7 +81,7 @@ En nuestro dashboard podemos visualizar 5 KPIs de distinta indole.
 
 **-** Por último el KPI ***Variacion del promedio del puntaje de reviews a través de dos divisiones diferentes de tiempo***, meses y trimestres. Con un minimo de 0,4% de aumento de las reviews con respecto al anterior periodo.
 
-***Cabe recalcar que los objetivos fueron concluidos, no solo desde un juicio de contexto de mercado, sino tambien en base a la distribucióin de datos***
+***Cabe recalcar que los objetivos fueron concluidos, no solo desde un juicio de contexto de mercado, sino tambien en base a la distribución de datos***
 
 ## Stack Tecnológico 💻
 
