@@ -258,9 +258,9 @@ View the application at [Deployed Project Link](Link)
 |------------|---|-----------------------|------------|
 | Paula Pallares | [linkedin.com/in/paupallares/](https://www.linkedin.com/in/paupallares/) | [paupallares](https://github.com/paupallares) | Analista funcional |
 | Benjamín Zambelli	| [linkedin.com/in/benjamin-zambelli/](https://www.linkedin.com/in/benjamin-zambelli/) | [BenJokek](https://github.com/BenJokek) | Data Engineer |
-| Beder Rivera | [linkedin.com/in/]() | [cullanco-huaman](https://github.com/cullanco-huaman) | Data Engineer | 
+| Beder Rivera | [linkedin.com/in/](https://www.linkedin.com/in/beder-rivera/) | [cullanco-huaman](https://github.com/cullanco-huaman) | Data Engineer | 
 | Claritzo Pérez Marcano | [linkedin.com/in/claritzoperez/](https://www.linkedin.com/in/claritzoperez) | [Claritzo](https://github.com/Claritzo) | Data Analyst | 
-| Gonzalo Schwerdt | [linkedin.com/in/gonzalo-schwerdt-84641a214/](https://www.linkedin.com/in/gonzalo-schwerdt-84641a214/) | [GonzaloSchwerdt](https://github.com/GonzaloSchwerdt) | ML Engineer | 
+| Gonzalo Schwerdt | [linkedin.com/in/gonzalo-schwerdt/](https://www.linkedin.com/in/gonzalo-schwerdt-84641a214/) | [GonzaloSchwerdt](https://github.com/GonzaloSchwerdt) | ML Engineer | 
 
 ## Contributing
 
