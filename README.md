@@ -70,7 +70,8 @@ la gestión e inversión en negocios.
 
 # KPIs 📈📉
 
-En nuestro dashboard podemos visualizar 5 KPIs de distinta indole. 
+En nuestro dashboard podemos visualizar 5 KPIs de distinta indole.
+
 ***- Puntaje promedio de Reviews*** indica dicha información segun los filtros, teniendo como objetivo un minimo de rating de 4.2 estrellas.
 
 ***- Cantidad de Reviews*** hace referencia al promedio según los filtros. Este dato es importante ya que debe superar un minimo de 20 reviews ya que si el mismo es menor, puede significar que, mas alla de que el proemdio de reviews sea alto, la cantidad de datos de muestra de los cuales se llega a esta conclusion son pocos, por ende no confiables. 
