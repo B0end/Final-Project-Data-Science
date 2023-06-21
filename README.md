@@ -68,7 +68,7 @@ la gestión e inversión en negocios.
 <img alt="stack" src="src/demo.gif" width="95%">
 </p>
 
-## KPIs 📈📉
+# KPIs 📈📉
 
 En nuestro dashboard podemos visualizar 5 KPIs de distinta indole. 
 ***- Puntaje promedio de Reviews*** indica dicha información segun los filtros, teniendo como objetivo un minimo de rating de 4.2 estrellas.
