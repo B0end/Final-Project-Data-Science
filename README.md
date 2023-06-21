@@ -250,7 +250,7 @@ STREAMLIT APP
 <img alt="stack" src="src/app-mockup.png" width="95%">
 </p>
 
-View the application at [Deployed Project Link](https://databrick-app-ro1106uif3t.streamlit.app/Proyecto)
+Se puede acceder a la aplicación a través de [ESTE LINK](https://databrick-app-ro1106uif3t.streamlit.app/Proyecto)
 
 ## Equipo 🫂
 
@@ -262,11 +262,6 @@ View the application at [Deployed Project Link](https://databrick-app-ro1106uif3
 | Claritzo Pérez Marcano | [linkedin.com/in/claritzoperez/](https://www.linkedin.com/in/claritzoperez) | [Claritzo](https://github.com/Claritzo) | Data Analyst | 
 | Gonzalo Schwerdt | [linkedin.com/in/gonzalo-schwerdt/](https://www.linkedin.com/in/gonzalo-schwerdt-84641a214/) | [GonzaloSchwerdt](https://github.com/GonzaloSchwerdt) | ML Engineer | 
 
-## Contributing
-
-Provide instructions for other people on **how** to allow them to contribute to the project. These are guidelines they will have to follow if they want to contribute. The [Contributor Covenant](https://www.contributor-covenant.org/) is a good place to look at industry standard guidelines for others to follow.
-
-Note: You can have a link to a CONTRIBUTING.md file if you have a long list of guidelines to follow 😄
 
 ## Disclaimer
 
